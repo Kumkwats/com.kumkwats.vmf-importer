@@ -1,0 +1,18 @@
+{
+  "name": "com.kumkwats.vmf-importer",
+  "version": "0.0.1",
+  "displayName": "VMF Importer",
+  "description": "Attempts to converts Valve Map Format (VMF) files to Unity prefabs.",
+  "keywords": [
+    "unity",
+    "vmf",
+    "importer",
+    "prefab",
+    "valve"
+  ],
+  "unity": "2021.3",
+  "author": {
+    "name": "Kumkwats",
+    "url": "https://github.com/Kumkwats"
+  }
+}
